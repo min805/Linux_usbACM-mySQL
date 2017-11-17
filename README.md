@@ -1,2 +1,3 @@
-# serialcom_acm
+# linux c++ usb-acm, mySql
+
 README
